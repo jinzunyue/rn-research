@@ -1,0 +1,32 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "hermesvm": "^0.1.0",
+    "react": "^16.8.6",
+    "react-native": "^0.60.4",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-navigation": "^3.11.0",
+    "react-redux": "^7.1.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.4.0",
+    "@types/react": "^16.8.6",
+    "@types/react-native": "^0.60.2",
+    "@types/react-navigation": "^3.0.6",
+    "@types/react-redux": "^7.0.6",
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.3",
+    "tslint": "^5.14.0",
+    "tslint-react": "^4.0.0",
+    "typescript": "^3.3.4000"
+  }
+}
